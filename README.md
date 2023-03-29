@@ -14,13 +14,13 @@ Jika Anda ingin menambahkan projek ini di komputer Anda sendiri, Anda bisa melak
 ## Klon repositori ini
 
 ```
-git clone https://github.com/Dimascndraa/colonial-web.git
+git clone https://github.com/Dimascndraa/laravel-mail.git
 ```
 
 Setelah itu, buka repository dengan mengetikan perintah:
 
 ```
-cd colonial-web
+cd laravel-mail
 ```
 
 ## Install Depedency
@@ -63,13 +63,6 @@ Langkah selanjutnya adalah menginstal NodeJs dengan menjalankan perintah berikut
 npm install && npm run dev
 ```
 
-## Run Symlink
-
-langkah selanjutnya buat symbolic link pada laravel dengan perintah:
-
-```
-php artisan storage:link
-```
 
 ## Run Local Dev Server
 
